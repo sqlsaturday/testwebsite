@@ -16,6 +16,7 @@ These are the SQLSaturday events that have been scheduled.
           <th scope="col"></th>
           <th scope="col">Event Name</th>
           <th scope="col">Date</th>
+          <th scope="col">CFS Status</th>
         </tr>
       </thead>
       <tbody>
@@ -31,6 +32,13 @@ These are the SQLSaturday events that have been scheduled.
           <td><a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
           </td>
           <td>{{post.date | date_to_long_string }}</td>
+          <td>
+          {% if post.callforspeakers = true %} 
+            Open
+          <% else %}
+            Closed
+          {% endif %}
+          </td>
         </tr>
       {% endif %}
    {% endif %}
