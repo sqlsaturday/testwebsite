@@ -31,9 +31,9 @@ These are the SQLSaturday events that have been scheduled.
           <td><img src="{{ post.thumb }}"></td>
           <td><a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
           </td>
-          <td>{{post.date | date_to_long_string }}</td>
+          <td>{{post.date | date: "%b %d %Y" }}</td>
           <td>
-          {% if post.callforspeakers == true %} 
+          {% if post.callforspeakersenddate >= TodayDate %} 
             <img src="/assets/img/open.png">
           {% else %}
             &nbsp;
