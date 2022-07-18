@@ -34,9 +34,9 @@ These are the SQLSaturday events that have been scheduled.
           <td>{{post.date | date_to_long_string }}</td>
           <td>
           {% if post.callforspeakers == true %} 
-            Open
+            <img src="/assets/img/open.png">
           <% else %}
-            Closed
+            &nbsp;
           {% endif %}
           </td>
         </tr>
