@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "SQLSaturday"
+title: "SQL Saturday"
 ---
 Welcome to SQLSaturday, the data platform and SQL Server community franchise for technical events. We have a list of <a href="#events">upcoming events</a> below as well as <a href="#other">other events</a> from different sources that are of interest to the data professional.
 
