@@ -33,7 +33,8 @@ These are the SQLSaturday events that have been scheduled.
           </td>
           <td>{{post.date | date: "%b %d %Y" }}</td>
           <td>
-          {% if post.callforspeakersenddate >= TodayDate %} 
+          {% assign cfsend post.callforspeakersenddate | date: '%s' %}
+          {% if cfsend >= TodayDate %} 
             <img src="/assets/img/open.png">
           {% else %}
             &nbsp;
