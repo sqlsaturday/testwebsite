@@ -10,7 +10,7 @@ If you want to know more about events from an organizer, speaker, sponsor, or at
 
 These are the SQLSaturday events that have been scheduled.
 
-<table cellspacing=0 class="table table-hover table-borderless table-sortable mt-3" width="100%">
+<table cellspacing=0 class="table table-hover table-borderless table-sortable mt-2" width="100%">
   <thead>
         <tr>
           <th scope="col"></th>
@@ -35,7 +35,7 @@ These are the SQLSaturday events that have been scheduled.
           <td>
           {% if post.callforspeakers == true %} 
             <img src="/assets/img/open.png">
-          <% else %}
+          {% else %}
             &nbsp;
           {% endif %}
           </td>
