@@ -33,7 +33,7 @@ These are the SQLSaturday events that have been scheduled.
           </td>
           <td>{{post.date | date_to_long_string }}</td>
           <td>
-          {% if post.callforspeakers = true %} 
+          {% if post.callforspeakers == true %} 
             Open
           <% else %}
             Closed
