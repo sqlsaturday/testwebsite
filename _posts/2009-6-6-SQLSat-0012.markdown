@@ -2,6 +2,7 @@
 layout: "post" 
 title: "SQLSaturday #12 - Portland 2009" 
 prettydate: "6 June 2009" 
+tags: ["Portland", "Oregon", "USA", "physical", "2009", "North America"]
 ---
 # SQLSaturday #12 - Portland 2009
  
@@ -319,7 +320,7 @@ The following is a list of sponsors that helped fund the event:
  
 - [JumpstartTV.com](http://www.jumpstarttv.com)
  
-[Back to the SQL Saturday Event List](/past)
+[Back to the SQLSaturday Event List](/past)
  
 [Back to the home page](/index)
  

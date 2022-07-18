@@ -2,6 +2,7 @@
 layout: "post" 
 title: "SQLSaturday #19 - East Iowa 2009" 
 prettydate: "17 October 2009" 
+tags: ["East Iowa", "Iowa", "USA", "physical", "2009", "North America"]
 ---
 # SQLSaturday #19 - East Iowa 2009
  
@@ -519,7 +520,7 @@ The following is a list of sponsors that helped fund the event:
  
 - [SQLShare](http://www.sqlshare.com)
  
-[Back to the SQL Saturday Event List](/past)
+[Back to the SQLSaturday Event List](/past)
  
 [Back to the home page](/index)
  

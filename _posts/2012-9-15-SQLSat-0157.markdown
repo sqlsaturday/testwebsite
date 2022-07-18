@@ -2,6 +2,7 @@
 layout: "post" 
 title: "SQLSaturday #157 - San Diego 2012" 
 prettydate: "15 September 2012" 
+tags: ["San Diego", "California", "USA", physical, 2012]
 ---
 # SQLSaturday #157 - San Diego 2012
  
@@ -1028,7 +1029,7 @@ The following is a list of sponsors that helped fund the event:
  
 - [SAPIEN Technologies](http://www.sapien.com)
  
-[Back to the SQL Saturday Event List](/past)
+[Back to the SQLSaturday Event List](/past)
  
 [Back to the home page](/index)
  

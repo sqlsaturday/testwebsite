@@ -2,6 +2,7 @@
 layout: "post" 
 title: "SQLSaturday #185 - Trinidad 2013" 
 prettydate: "25 January 2013" 
+tags: ["Trinidad and Tobago", "Port of Spain", physical, 2013]
 ---
 # SQLSaturday #185 - Trinidad 2013
  
@@ -10,7 +11,7 @@ prettydate: "25 January 2013"
 **Event Location**:
 - Leon Agostini Conference Hall at the Chamber of Industry and Commerce
 - Columbus Circle, Westmoorings
-- Port Of Spain, , Trinidad and Tobago
+- Port Of Spain, Trinidad and Tobago
  
 <a href="/assets/pdf/0185.pdf">PDF of Schedule</a>
  
@@ -171,7 +172,7 @@ The following is a list of sponsors that helped fund the event:
  
 - [Redgate Software (GAP)](http://rd.gt/2j7SNf9)
  
-[Back to the SQL Saturday Event List](/past)
+[Back to the SQLSaturday Event List](/past)
  
 [Back to the home page](/index)
  

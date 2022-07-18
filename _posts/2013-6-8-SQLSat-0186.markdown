@@ -2,6 +2,7 @@
 layout: "post" 
 title: "SQLSaturday #186 - Auckland, NZ 2013" 
 prettydate: "8 June 2013" 
+tags: ["Aukland", "New Zealand", "physical", "2013"]
 ---
 # SQLSaturday #186 - Auckland, NZ 2013
  
@@ -47,7 +48,7 @@ The following is a list of sponsors that helped fund the event:
  
 - [Microsoft Corporation (GAP)](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
  
-[Back to the SQL Saturday Event List](/past)
+[Back to the SQLSaturday Event List](/past)
  
 [Back to the home page](/index)
  

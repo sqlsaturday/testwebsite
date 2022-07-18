@@ -2,6 +2,7 @@
 layout: "post" 
 title: "SQLSaturday #183 - Albuquerque 2013" 
 prettydate: "9 February 2013" 
+tags: ["Albuquerque", "New Mexico", "USA", physical, 2013]
 ---
 # SQLSaturday #183 - Albuquerque 2013
  
@@ -614,7 +615,7 @@ The following is a list of sponsors that helped fund the event:
  
 - [New Horizons](http://www.nhcomputerlearning.com)
  
-[Back to the SQL Saturday Event List](/past)
+[Back to the SQLSaturday Event List](/past)
  
 [Back to the home page](/index)
  

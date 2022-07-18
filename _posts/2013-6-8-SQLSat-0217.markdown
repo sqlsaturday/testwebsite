@@ -2,6 +2,7 @@
 layout: "post" 
 title: "SQLSaturday #217 - Columbus 2013" 
 prettydate: "8 June 2013" 
+tags: ["Columbus", "Ohio", "North America", "USA", "physical", "2013"]
 ---
 # SQLSaturday #217 - Columbus 2013
  
@@ -510,7 +511,7 @@ The following is a list of sponsors that helped fund the event:
  
 - [SAPIEN Technologies](http://www.sapien.com)
  
-[Back to the SQL Saturday Event List](/past)
+[Back to the SQLSaturday Event List](/past)
  
 [Back to the home page](/index)
  

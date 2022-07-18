@@ -2,6 +2,7 @@
 layout: "post" 
 title: "SQLSaturday #35 - Dallas 2010" 
 prettydate: "22 May 2010" 
+tags: ["Dallas", "Texas", "USA", "physical", "2010", "North America"]
 ---
 # SQLSaturday #35 - Dallas 2010
  
@@ -41,7 +42,7 @@ The following is a list of sponsors that helped fund the event:
  
 - [FusionIO](http://www.fusionio.com/solutions/microsoft-sql-server/)
  
-[Back to the SQL Saturday Event List](/past)
+[Back to the SQLSaturday Event List](/past)
  
 [Back to the home page](/index)
  

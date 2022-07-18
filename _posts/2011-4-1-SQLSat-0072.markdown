@@ -2,6 +2,7 @@
 layout: "post" 
 title: "SQLSaturday #72 - Hawaii 2011" 
 prettydate: "1 April 2011" 
+tags: ["Hawaii", "Honolulu", USA, physical, 2011]
 ---
 # SQLSaturday #72 - Hawaii 2011
  
@@ -427,7 +428,7 @@ The following is a list of sponsors that helped fund the event:
  
 - [Telerik](http://www.telerik.com/)
  
-[Back to the SQL Saturday Event List](/past)
+[Back to the SQLSaturday Event List](/past)
  
 [Back to the home page](/index)
  

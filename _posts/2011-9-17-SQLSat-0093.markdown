@@ -2,6 +2,7 @@
 layout: "post" 
 title: "SQLSaturday #93 - Toronto 2011" 
 prettydate: "17 September 2011" 
+tags: ["Toronto", "Ontario", "Canada", physical, 2011]
 ---
 # SQLSaturday #93 - Toronto 2011
  
@@ -570,7 +571,7 @@ The following is a list of sponsors that helped fund the event:
  
 - [SSWUG.org](https://www.sswug.org/)
  
-[Back to the SQL Saturday Event List](/past)
+[Back to the SQLSaturday Event List](/past)
  
 [Back to the home page](/index)
  

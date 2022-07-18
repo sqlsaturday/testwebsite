@@ -2,6 +2,7 @@
 layout: "post" 
 title: "SQLSaturday #102 - Trinidad 2011" 
 prettydate: "11 November 2011" 
+tags: ["Trinidad and Tobago", "Port of Spain", physical, 2011]
 ---
 # SQLSaturday #102 - Trinidad 2011
  
@@ -185,7 +186,7 @@ The following is a list of sponsors that helped fund the event:
  
 - [SolidQ](http://www.solidq.com/es)
  
-[Back to the SQL Saturday Event List](/past)
+[Back to the SQLSaturday Event List](/past)
  
 [Back to the home page](/index)
  

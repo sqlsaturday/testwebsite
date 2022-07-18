@@ -2,6 +2,7 @@
 layout: "post" 
 title: "SQLSaturday #6 - Cleveland 2008" 
 prettydate: "1 February 2009" 
+tags: ["Cleveland", "Ohio", "USA", "physical", "2009", "North America"]
 ---
 # SQLSaturday #6 - Cleveland 2008
  
@@ -39,7 +40,7 @@ This is a list of speakers from the XML Guidebook records. The details and URLs 
 ## <a name="sponsors"></a>Sponsors
 The following is a list of sponsors that helped fund the event:
  
-[Back to the SQL Saturday Event List](/past)
+[Back to the SQLSaturday Event List](/past)
  
 [Back to the home page](/index)
  
