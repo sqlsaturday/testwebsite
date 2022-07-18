@@ -26,14 +26,14 @@ These are the SQLSaturday events that have been scheduled.
     {% assign EventDate = post.date | date: '%s' %}
     {% if post.testevent != 1 %}
       {% if EventDate >= TodayDate %}
-        {% assign future == 1 %}
+        {% assign future = 1 %}
         <tr>
           <td><img src="{{ post.thumb }}"></td>
           <td><a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
           </td>
           <td>{{post.date | date: "%b %d %Y" }}</td>
           <td>
-          {% assign cfsend post.callforspeakersenddate | date: '%s' %}
+          {% assign cfsend = post.callforspeakersenddate | date: '%s' %}
           {% if cfsend >= TodayDate %} 
             <img src="/assets/img/open.png">
           {% else %}
