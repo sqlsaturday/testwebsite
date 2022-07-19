@@ -10,7 +10,8 @@ If you want to know more about events from an organizer, speaker, sponsor, or at
 
 These are the SQLSaturday events that have been scheduled.
 
-<table cellspacing=0 class="table table-hover table-borderless table-sortable mt-4" width="100%" align="center">
+  <div class="container">
+    <table table cellspacing=0 class="table table-striped table-hover mt-4" id="eventlist" width="100%">
   <thead>
         <tr>
           <th scope="col"></th>
@@ -54,7 +55,7 @@ These are the SQLSaturday events that have been scheduled.
   {% endif %}
   </tbody>
 </table>
-
+</div>
 You can see completed events on the [Past Events](past) page.
 
 ## <a name="other"></a>Other Events
