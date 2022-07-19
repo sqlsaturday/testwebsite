@@ -10,7 +10,7 @@ If you want to know more about events from an organizer, speaker, sponsor, or at
 
 These are the SQLSaturday events that have been scheduled.
 
-<table cellspacing=0 class="table table-hover table-borderless table-sortable mt-4" width="100%">
+<table cellspacing=0 class="table table-hover table-borderless table-sortable mt-4" width="100%" align="center">
   <thead>
         <tr>
           <th scope="col"></th>
