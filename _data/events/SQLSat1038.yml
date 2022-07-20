@@ -25,11 +25,11 @@ eventcountdown: false
 
 countdownscript:
  
-speakertext: The call for speakers is not yet open.
+speakertext: The call for speakers is open.
 speakerlisturl: 
-callforspeakersurl: 
-callforspeakers:  false
-callforspeakersenddate: 
+callforspeakersurl: www.sqlsaturday.com
+callforspeakers:  true
+callforspeakersenddate: Sep 1 2022
 
 organizers:
   - name: "San Diego Data Professionals"
