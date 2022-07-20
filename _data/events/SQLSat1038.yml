@@ -1,0 +1,58 @@
+name: "SQL Saturday San Diego 2022"
+logo: 
+logocredit: 
+date: 2022-12-03 09:00:00 -0000
+virtual: false
+physical: true
+hybrid: false
+description: | 
+    <p>SQL Saturday San Diego is a free one-day training event for IT professionals and students interested in the Microsoft data platform (SQL Server Databases, Business Intelligence, Data Analytics, and more).</p>
+
+eventlocation: |
+  University of San Diego
+
+eventlocationurl:
+
+officialwebsite: 
+registrationurl: 
+capacity: 
+googlemapurl: 
+
+scheduleurl: 
+scheduletimezone: Pacific Standard Time UTC -5
+
+eventcountdown: false
+
+countdownscript:
+ 
+speakertext: The call for speakers is not yet open.
+speakerlisturl: 
+callforspeakersurl: 
+callforspeakers:  false
+callforspeakersenddate: 
+
+organizers:
+  - name: "San Diego Data Professionals"
+    twitter: 
+    email: 
+    url: 
+
+volunteers:
+  description: "Volunteers are very important to a successful event. Please contact the organizer to volunteer."
+  volunteerurl:
+
+social:
+  twitter: 
+  youtube: 
+  linkedin: 
+  instagram: 
+  tiktok: 
+  pinterest: 
+
+sponsorscontacturl: 
+sponsors:
+
+
+sponsorplan:
+    <h1><a name="sponsorship">Sponsorship Plan</a></h1>
+    <p>Coming soon</p>
